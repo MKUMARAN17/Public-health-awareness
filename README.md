@@ -4,8 +4,8 @@
 Welcome to the Public Health Awareness project! This repository contains code for data analysis related to public health issues.
 
 ## About Me
-- **Name:** Muthukumaran
-- **Affiliation:** University College of Engineering tindivanam
+- **Name:** Muthukumaran M
+- **Affiliation:** University College of Engineering Tindivanam
 
 ## Project Description
 This project aims to raise awareness about public health by analyzing relevant data. The code in this repository performs various data analysis tasks to gain insights into public health trends, issues, or any other specific objectives you may have.
