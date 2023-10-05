@@ -3,8 +3,12 @@
 ## Introduction
 Welcome to the Public Health Awareness project! This repository contains code for data analysis related to public health issues.
 
-## About Me
-- **Name:** Muthukumaran M
+## Team members 
+- Muthukumaran M
+- Sinoj K
+- Roobak V
+- Sathiyagandhi K
+- sathyamoorthy T
 - **Affiliation:** University College of Engineering Tindivanam
 
 ## Project Description
