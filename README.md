@@ -9,7 +9,8 @@ Welcome to the Public Health Awareness project! This repository contains code fo
 - Roobak V
 - Sathiyagandhi K
 - sathyamoorthy T
-- **Affiliation:** University College of Engineering Tindivanam
+## Affiliation
+- University College of Engineering Tindivanam
 
 ## Project Description
 This project aims to raise awareness about public health by analyzing relevant data. The code in this repository performs various data analysis tasks to gain insights into public health trends, issues, or any other specific objectives you may have.
