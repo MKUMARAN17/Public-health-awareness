@@ -6,8 +6,6 @@ Welcome to the Public Health Awareness project! This repository contains code fo
 ## Team members 
 - Muthukumaran M
 - Sinoj K
-- Roobak V
-- Sathiyagandhi K
 - sathyamoorthy T
 ## Affiliation
 - University College of Engineering Tindivanam
